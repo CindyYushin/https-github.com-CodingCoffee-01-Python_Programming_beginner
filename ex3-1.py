@@ -9,3 +9,8 @@ x = 10      # int
 y = 3.14    # float
 z = "Hello" # str
 print(type(x), type(y), type(z))
+
+x = 10
+print(type(x))  # int
+x = "Python"
+print(type(x))  # str
